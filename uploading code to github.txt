@@ -1,0 +1,9 @@
+ls
+cd
+git remote add origin <gitlink>
+git remote -v
+git add . 
+git commit -m "first commit"
+(USer name and password if first time)
+git push origin master
+git help
